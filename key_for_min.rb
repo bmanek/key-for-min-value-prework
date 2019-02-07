@@ -19,11 +19,5 @@ end
 
 
 
-#    merp = name_hash.to_a
- #   merp.each { |a, b| a <=> b }
-  #  merp[0][0]
-
-
-
 
 
